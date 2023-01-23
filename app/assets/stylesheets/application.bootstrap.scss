@@ -1,0 +1,39 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
+
+.card.active {
+  outline: 3px solid #2c5601;
+}
+
+.lists-wrapper {
+  background-color: #efefec;
+}
+
+.smaller-text {
+  font-size: 0.875rem;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.rating-star {
+  color: #5de372;
+}
+
+.rating {
+  color: black;
+}
+
+.thumbnail {
+  width: 75px;
+}
+
+.bookmark-icon {
+  color: #2c5601;
+}
+
+.map-container {
+  height: 100vh;
+  width: 100%;
+}
